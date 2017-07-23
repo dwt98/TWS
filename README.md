@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dwt98/TWS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+この度は、R-MONO Lab 自走たわしをお買い上げいただき、ありがとうございました。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+このページより、組立ガイドをダウンロードいただけます。
+あなただけの自走たわしを作ってください。
 
-### Markdown
+### 組立ガイド
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[こちらからダウンロード]()
 
-```markdown
-Syntax highlighted code block
+### お問い合わせ
 
-# Header 1
-## Header 2
-### Header 3
+Twitter からメッセージをいただくか、メールにてお願いします。
 
-- Bulleted
-- List
+twitter : @r_mono_lab
 
-1. Numbered
-2. List
+mail: dwt98.me@gmail.com
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dwt98/TWS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
