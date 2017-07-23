@@ -6,7 +6,7 @@
 
 ### 組立ガイド
 
-[こちらからダウンロード]()
+[こちらからダウンロード](https://github.com/dwt98/TWS/raw/master/TWS_build_guide.pdf)
 
 ### お問い合わせ
 
